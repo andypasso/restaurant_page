@@ -1,4 +1,3 @@
-import _ from 'lodash';
 import './style.css';
 import menu from './menu';
 import wacamole from './assets/wacamole.png';

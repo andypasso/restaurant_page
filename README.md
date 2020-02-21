@@ -32,14 +32,15 @@ The main goal of this project is understanding of the benefits of modularized co
 
 Github: @andynarf(https://github.com/andynarf)
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions, issues and feature requests are welcome!
 
 Show your support
 Give a ⭐️ if you like this project!
 
-Acknowledgments
+## Acknowledgments
 Inspiration: "Restaurant Page Project" on The Odin Project site.
 (https://www.theodinproject.com/courses/javascript/lessons/restaurant-page)
-📝 License
+
+## 📝 License
 This project is MIT licensed.
