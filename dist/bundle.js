@@ -154,6 +154,78 @@ eval("module.exports = function(module) {\n\tif (!module.webpackPolyfill) {\n\t\
 
 /***/ }),
 
+/***/ "./src/assets/felicidad.png":
+/*!**********************************!*\
+  !*** ./src/assets/felicidad.png ***!
+  \**********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"2b845e04ed732633a324a5dec462f179.png\");\n\n//# sourceURL=webpack:///./src/assets/felicidad.png?");
+
+/***/ }),
+
+/***/ "./src/assets/kickaboo.png":
+/*!*********************************!*\
+  !*** ./src/assets/kickaboo.png ***!
+  \*********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"b8bd8a4a9ea0d824a88dd3feaedc15f8.png\");\n\n//# sourceURL=webpack:///./src/assets/kickaboo.png?");
+
+/***/ }),
+
+/***/ "./src/assets/polloking.png":
+/*!**********************************!*\
+  !*** ./src/assets/polloking.png ***!
+  \**********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"333ca1a07bd328c8d632ab6899fa72df.png\");\n\n//# sourceURL=webpack:///./src/assets/polloking.png?");
+
+/***/ }),
+
+/***/ "./src/assets/spacetasty.png":
+/*!***********************************!*\
+  !*** ./src/assets/spacetasty.png ***!
+  \***********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"05b2b779cc78d70c34665363c4a2d7cb.png\");\n\n//# sourceURL=webpack:///./src/assets/spacetasty.png?");
+
+/***/ }),
+
+/***/ "./src/assets/tristeza.png":
+/*!*********************************!*\
+  !*** ./src/assets/tristeza.png ***!
+  \*********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"f91685e07d8b1f8d36ba1d8b1a7d1530.png\");\n\n//# sourceURL=webpack:///./src/assets/tristeza.png?");
+
+/***/ }),
+
+/***/ "./src/assets/wacamole.png":
+/*!*********************************!*\
+  !*** ./src/assets/wacamole.png ***!
+  \*********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"2a5ba7f3b0fb1e38fdf35348d39afeba.png\");\n\n//# sourceURL=webpack:///./src/assets/wacamole.png?");
+
+/***/ }),
+
 /***/ "./src/index.js":
 /*!**********************!*\
   !*** ./src/index.js ***!
@@ -162,7 +234,19 @@ eval("module.exports = function(module) {\n\tif (!module.webpackPolyfill) {\n\t\
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! lodash */ \"./node_modules/lodash/lodash.js\");\n/* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(lodash__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./style.css */ \"./src/style.css\");\n/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_style_css__WEBPACK_IMPORTED_MODULE_1__);\n\n\n\nfunction component() {\n    const element = document.createElement('div');\n\n    element.innerHTML = lodash__WEBPACK_IMPORTED_MODULE_0___default.a.join(['Hello', 'webpack/2 '], ' ');\n    //element.innerHTML = 'hello world';\n\n    return element;\n  }\n\n  document.body.appendChild(component());\n\n//# sourceURL=webpack:///./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! lodash */ \"./node_modules/lodash/lodash.js\");\n/* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(lodash__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./style.css */ \"./src/style.css\");\n/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_style_css__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _menu__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./menu */ \"./src/menu.js\");\n/* harmony import */ var _assets_wacamole_png__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./assets/wacamole.png */ \"./src/assets/wacamole.png\");\n/* harmony import */ var _assets_kickaboo_png__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./assets/kickaboo.png */ \"./src/assets/kickaboo.png\");\n/* harmony import */ var _assets_polloking_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./assets/polloking.png */ \"./src/assets/polloking.png\");\n/* harmony import */ var _assets_spacetasty_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./assets/spacetasty.png */ \"./src/assets/spacetasty.png\");\n/* harmony import */ var _assets_tristeza_png__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./assets/tristeza.png */ \"./src/assets/tristeza.png\");\n/* harmony import */ var _assets_felicidad_png__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./assets/felicidad.png */ \"./src/assets/felicidad.png\");\n\n\n\n\n\n\n\n\n\n\n\n document.getElementById('menuid').innerHTML = Object(_menu__WEBPACK_IMPORTED_MODULE_2__[\"default\"])();\n\n\n    //element.innerHTML = 'hello world';\n\n\n\n\n//# sourceURL=webpack:///./src/index.js?");
+
+/***/ }),
+
+/***/ "./src/menu.js":
+/*!*********************!*\
+  !*** ./src/menu.js ***!
+  \*********************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\nconst menu = () => {\n    const menuhtml =\n    `<a class='a' href=\"#\">Comete una<br>SpaceBurger</a>\n    <div class='flex'>\n    \n        <img id='astronaut' src=\"../images/atronaut.png\">\n        <h1>\n            Space Burgers<br>\n            Hamburguesas, posta\n        </h1>\n    </div>\n    <div class=\"tabs\">\n        <div class=\"tab-2\">\n            <label for=\"tab2-1\">Home</label>\n            <input id=\"tab2-1\" name=\"tabs-two\" type=\"radio\" checked=\"checked\">\n            <div>\n                <h4>Sobre Nosotros</h4>\n                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas consequat id velit quis vestibulum. Nam\n                    id orci eu urna mollis porttitor. Nunc nisi ante, gravida at velit eu, aliquet sodales dui. Sed laoreet\n                    condimentum nisi a egestas.</p>\n                <p>Donec interdum ante ut enim consequat, quis varius nulla dapibus. Vivamus mollis fermentum augue a\n                    varius. Vestibulum in sapien at lectus gravida lobortis vulputate sed metus. Duis scelerisque justo et\n                    maximus efficitur. Donec eu eleifend quam. Curabitur aliquet commodo sapien eget vestibulum. Vestibulum\n                    ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum vel aliquet\n                    nunc, finibus posuere lorem. Suspendisse consectetur volutpat est ut ornare.</p>\n            </div>\n        </div>\n        <div class=\"tab-2\">\n            <label for=\"tab2-2\">Menu</label>\n            <input id=\"tab2-2\" name=\"tabs-two\" type=\"radio\">\n            <div>\n                <h4>Nuestas Hamburguesas</h4>\n                \n                <ul class=\"menu\">\n                    <li class='burgers'>\n                        <a href=\"#\">\n                            <img class='menuimg' src=\"../images/wacamole.png\">\n                            <h4>WacaBurger</h4>\n                        </a>\n                        <p>Simple Hamburguesa con lechuga, tomate, bacon y nuestra salsa de Wacamole.</p>\n                    </li>\n                    <li class='burgers'>\n                        <a href=\"#\">\n                            <img class='menuimg' src=\"../images/spaceTasty.png\">\n                            <h4>Space Tasty</h4>\n                        </a>\n                        <p>Doble Hamburguesa con pepinos,lechuga, tomate y nuestra salsa Tasty.</p>\n                    </li>\n                    <li class='burgers'>\n                        <a href=\"#\">\n                            <img class='menuimg' src=\"../images/kickaboo.png\">\n                            <h4>KickaBoo</h4>\n                        </a>\n                        <p>Terminala si podes, solo los mas valientes ( o gorditos ) piden esta .</p>\n                    </li>\n                    <li class='burgers'>\n                        <a href=\"#\">\n                            <img class='menuimg2' src=\"../images/tristeza.png\">\n                            <h4>Tristeza</h4>\n                        </a>\n                        <p>No podia faltar la clasica cheeseburger, para los mas aburridos.</p>\n                    </li>\n                    <li class='burgers'>\n                        <a href=\"#\">\n                            <img class='menuimg2' src=\"../images/felicidad.png\">\n                            <h4>felicidad</h4>\n                        </a>\n                        <p>Una cheeseburger de verdad, hamburguesa doble mucho queso y mucha salsa.</p>\n                    </li>\n                    <li class='burgers'>\n                        <a href=\"#\">\n                            <img class='menuimg2' src=\"../images/polloking.png\">\n                            <h4>PolloKing</h4>\n                        </a>\n                        <p>La de pollo, nada mas que decir, si no te va la carne, pedite esta.</p>\n                    </li>\n                </ul>`\n     return menuhtml;\n};\n          \n\n/* harmony default export */ __webpack_exports__[\"default\"] = (menu);\n\n//# sourceURL=webpack:///./src/menu.js?");
 
 /***/ }),
 

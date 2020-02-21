@@ -19,6 +19,9 @@
   "homepage": "https://github.com/andynarf/restaurant_page#readme",
   "devDependencies": {
     "css-loader": "^3.4.2",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.20.1",
     "file-loader": "^5.1.0",
     "node-sass": "^4.13.1",
     "sass-loader": "^8.0.2",
